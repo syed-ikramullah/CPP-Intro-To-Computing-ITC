@@ -13,5 +13,5 @@ Searching (Linear search and binary search)
 ## Usage
 It will assist beginners in learning basic C++ and programmers who teach C++ through visualising basic programs.
 
-## Lcense
+## License
 Everyone can use any code in this repository as this is to assist beginners with limited programming skills.
