@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 using namespace std;
 int main() {
@@ -29,4 +29,3 @@ int main() {
 	system("pause");
 	return 0;
 }
-*/
